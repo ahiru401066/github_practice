@@ -1,4 +1,0 @@
-This is the todo1.txt.
-
-1. check
-2. fix
